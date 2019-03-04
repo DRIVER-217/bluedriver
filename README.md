@@ -1,7 +1,7 @@
 # bluedriver
-android wear bluetooth war-driver app
-made in android-studio
-(supposed) to show devices on maps
+- android wear bluetooth war-driver app
+- made in android-studio
+- (supposed) to show devices on maps
 
 ```
 ▄▄▄▄    ██▓     █    ██ ▓█████ ▓█████▄  ██▀███   ██▓ ██▒   █▓▓█████  ██▀███  
